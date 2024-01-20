@@ -19,7 +19,7 @@ Guessing game for a random number between 1 and 10, which counts a number of att
 
 To get the files onto your machine now, you clone the repository you added to your github. To do this, inside your repository there will be a `code` button where you can copy a url. Use it to run the command inside the folder you want `git clone <link copied>`.
 
-![Url git clone](https://media.canva.com/1/image-resize/1/470_254_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9tWDBzYy9NQUYzUWJtWDBzYy8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAAJJ5Lyit5vkpAIuF3o2jCZDKf1nNefq6S2D1o72RmazA&exp=1702850385&x-canva-quality=screen&csig=AAAAAAAAAAAAAAAAAAAAAIrevhrP2yG-BwtbAYRu9UssC9kiwLq8tfixIQ8KfQ2y)
+![Url git clone](https://media.canva.com/1/image-resize/1/470_254_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9tWDBzYy9NQUYzUWJtWDBzYy8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAADmhiwncmOPyv5q7xzgdvNNL_xQt1wJzDR8gshd_n_OD&exp=1705701585&x-canva-quality=screen&csig=AAAAAAAAAAAAAAAAAAAAAEToGVhh7c9KWm-gkHDpRTa4WUPxpaIDXnEI4dAy5RWs)
 
 2. Select the IDE of your choice, open the project folder and run the "index.html" file.
 
